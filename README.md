@@ -2,6 +2,7 @@
 
 Join the numbers and get to the 2048 tile!
 Join the numbers and get to the 2048 tile!
+Join the numbers and get to the 2048 tile!
 
 
 [![2048 with Kivy](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.meltingrocks.kivy2048)
